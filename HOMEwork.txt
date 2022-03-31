@@ -1,0 +1,13 @@
+   0 cd /tmp/
+   1 nano sleeper.sh
+   2 chmod +x scriptalena.sh
+   3 chmod +x /bin/scriptalena.sh
+   4 chmod +x /tmp/scriptalena.sh
+   5 mkdir -p /tmp/test
+   6 ls -la
+   7 chmod +x script.sh
+   8 ls -la
+   9 nano sleeper.sh
+  10 chmod +x scriptalena.sh
+  11 ./scriptalena.sh 
+  12 history > /tmp/historyalena.txt
