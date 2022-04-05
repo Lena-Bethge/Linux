@@ -1,0 +1,6 @@
+   0 df -h
+   1 cd /tmp/
+   2 nano alena.sh
+   3 history > /tmp/historyalena
+   4 nano alena.sh
+   5 history > /tmp/historyalena.txt
